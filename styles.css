@@ -36,8 +36,8 @@ img {
     box-align: "center";
 }
 
-h1,header {
-    text-align: center;
+h1 {
+    text-align: left;
 }
 
 button {
